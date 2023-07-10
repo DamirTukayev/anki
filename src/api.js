@@ -1,0 +1,1 @@
+export const API_URL = 'https://marquislim2.pythonanywhere.com/api/v1/';

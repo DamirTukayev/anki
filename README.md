@@ -14,6 +14,7 @@ npm run serve
 ```
 npm run build
 ```
+firebase deploy
 
 ### Lints and fixes files
 ```
